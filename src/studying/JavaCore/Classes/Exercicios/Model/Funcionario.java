@@ -18,7 +18,7 @@ public class Funcionario {
     }
 
     public void mediaSalario() {
-        if(salario == null ){
+        if (salario == null) {
             return;
         }
         double soma = 0;
