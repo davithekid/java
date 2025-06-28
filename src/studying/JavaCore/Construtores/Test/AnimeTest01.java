@@ -1,6 +1,6 @@
-package studying.JavaCore.Construturores.Test;
+package studying.JavaCore.Construtores.Test;
 
-import studying.JavaCore.Construturores.Model.Anime;
+import studying.JavaCore.Construtores.Model.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

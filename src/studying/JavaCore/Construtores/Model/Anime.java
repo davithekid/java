@@ -1,4 +1,4 @@
-package studying.JavaCore.Construturores.Model;
+package studying.JavaCore.Construtores.Model;
 
 public class Anime {
     private String tipo;

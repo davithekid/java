@@ -1,6 +1,6 @@
-package studying.JavaCore.Construturores.Exercicios.Test;
+package studying.JavaCore.Construtores.Exercicios.Test;
 
-import studying.JavaCore.Construturores.Exercicios.Model.Funcionario;
+import studying.JavaCore.Construtores.Exercicios.Model.Funcionario;
 
 public class FuncionarioTest04 {
     public static void main(String[] args) {

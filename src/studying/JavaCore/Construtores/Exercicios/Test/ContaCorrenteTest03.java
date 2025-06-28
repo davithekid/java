@@ -1,6 +1,6 @@
-package studying.JavaCore.Construturores.Exercicios.Test;
+package studying.JavaCore.Construtores.Exercicios.Test;
 
-import studying.JavaCore.Construturores.Exercicios.Model.ContaCorrente;
+import studying.JavaCore.Construtores.Exercicios.Model.ContaCorrente;
 
 public class ContaCorrenteTest03 {
     public static void main(String[] args) {

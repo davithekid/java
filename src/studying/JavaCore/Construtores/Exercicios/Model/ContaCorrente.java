@@ -1,4 +1,4 @@
-package studying.JavaCore.Construturores.Exercicios.Model;
+package studying.JavaCore.Construtores.Exercicios.Model;
 
 public class ContaCorrente {
     private String titular;
