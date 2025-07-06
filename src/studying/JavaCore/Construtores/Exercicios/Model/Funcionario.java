@@ -55,7 +55,6 @@ public class Funcionario {
         for (double salario : salarios) {
             soma += salario;
         }
-
         return soma / salarios.length;
     }
 }
