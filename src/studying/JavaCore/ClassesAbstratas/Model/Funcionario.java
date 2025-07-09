@@ -1,6 +1,6 @@
 package studying.JavaCore.ClassesAbstratas.Model;
 
-public abstract class Funcionario {
+public abstract class Funcionario extends Pessoa {
     protected  String nome;
     protected  double salario;
 
